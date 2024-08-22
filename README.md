@@ -109,6 +109,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
-
+<p align="center">
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<!-- Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   
 
