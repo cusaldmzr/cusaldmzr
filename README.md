@@ -21,7 +21,8 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Fun fact **Cusal**
+🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : <p><a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a></p><br><br>
+
 
 <br>
 <br>
@@ -77,10 +78,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)
+![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&combine_all_yearly_contributions=true&bg_color=0D1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
 <br>
 <br>
@@ -98,15 +100,7 @@
 <br>
 
 
----
-## 💝 Support
-<br>
 
-<p><a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a></p><br><br>
-
-<br>
-
-<br>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
