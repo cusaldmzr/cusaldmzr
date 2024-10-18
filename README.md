@@ -84,6 +84,7 @@
 
 
 </div>
+<a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a>
 <br>
 <br>
 
