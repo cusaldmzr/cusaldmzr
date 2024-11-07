@@ -19,7 +19,6 @@
 
 
 
-
 # 💫 About Me:
 🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : <p><a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a></p><br><br>
 
@@ -84,7 +83,12 @@
 
 
 </div>
-<a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a> -->
+<div align="center">
+<h2>Medium Publications</h2>        
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cusaldmsr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cusaldmsr/0?bg_color=0D1117" alt="Recent Article 0"> 
+
+</div>
 <br>
 <br>
 
