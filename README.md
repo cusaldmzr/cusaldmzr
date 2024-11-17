@@ -76,7 +76,9 @@
 <br>
 
 <div align="center">
-
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=pie&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+        
 ![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)
 ![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&combine_all_yearly_contributions=true&bg_color=0D1117)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
