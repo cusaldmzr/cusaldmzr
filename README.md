@@ -77,14 +77,29 @@
 
 <div align="center">
         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/cusaldmsr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/cusaldmsr)  
+
+</div>
+
+<div align="center">
         
 ![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)
-![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&combine_all_yearly_contributions=true&bg_color=0D1117)
+
+</div>
+
+<div align="center">
+        
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
 
 
 </div>
+
+<div align="center">
+        
+![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&combine_all_yearly_contributions=true&bg_color=0D1117)
+
+</div>
+
 <!-- <a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a> -->
 <div align="center">
 <h2>Medium Publications</h2>        
