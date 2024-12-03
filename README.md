@@ -100,6 +100,12 @@
 
 </div>
 
+<div align="center">
+        
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117)
+
+</div>
+
 <!-- <a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a> -->
 <div align="center">
 <h2>Medium Publications</h2>        
