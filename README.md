@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<img align="right" alt="Coding" width="400" src="Singing Contract.gif">
+<img align="right" alt="Coding" width="400" src="Github-illustration.svg">
 
 
 
@@ -77,7 +77,7 @@
 
 <div align="center">
         
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true)](https://github.com/cusaldmsr)  
+[![Most used Langs overviwe](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/cusaldmsr)  
 
 </div>
 
