@@ -106,6 +106,9 @@
 
 </div>
 
+# Last Week Coding Stats
+
+<img src="https://wakatime.com/share/@cusaldmsr/3080fe91-229b-4c67-a279-e0d4b59ef055.svg" height="400">
 <!-- <a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a> -->
 <div align="center">
 <h2>Medium Publications</h2>        
