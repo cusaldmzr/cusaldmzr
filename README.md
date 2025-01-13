@@ -109,11 +109,17 @@
 # Coding Stats
 
 <div align="center">
-<img src="https://wakatime.com/share/@cusaldmsr/b723bad6-8465-411c-975b-e82cbd9921ba.svg" height="400"/>
+<h2 align="center"> Languages over All Time (From November 2024 to today)</h2>
+<br>
+<img src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" height="500"/>
 </div>
 <div align="center">
-<img src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" height="400"/>
+<h2 align="center"> Editors over All Time (From November 2024 to today)</h2>
+<br>
+<img src="https://wakatime.com/share/@cusaldmsr/01478b3f-0160-4934-b337-3b9633cda031.svg" height="500"/>
 </div>
+
+
 <!-- <a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a> -->
 <div align="center">
 <h2>Medium Publications</h2>        
