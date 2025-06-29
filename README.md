@@ -76,58 +76,44 @@
 <br>
 
 <div align="center">
-        
-[![Most used Langs overviwe](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/cusaldmsr)  
+        <div align="center">
+                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&layout=donut-vertical&theme=react&hide_border=true&bg_color=0D1117" >
+                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" >
+        </div>
+</div>
 
+<div align="center">
+        <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117" >
+        <img align="center" height="330px" width="450px" src="https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117" >
 </div>
 
 <div align="center">
         
-![](https://github-readme-stats.vercel.app/api?username=cusaldmsr&theme=react&hide_border=true&include_all_commits=false&count_private=true&bg_color=0D1117)
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>-->
 
-</div>
-
-<div align="center">
-        
-![](https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117)<br/>
-
-
-</div>
-
-<div align="center">
-        
-![](https://github-contributor-stats.vercel.app/api?username=cusaldmsr&limit=5&theme=react&combine_all_yearly_contributions=true&bg_color=0D1117)
-
-</div>
-
-<div align="center">
-        
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cusaldmsr&langs_count=8&theme=react&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cusaldmsr&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+</p>
 
 </div>
 
 # Coding Stats
 
 <div align="center">
-<h2 align="center"> Languages over All Time (From November 2024 to today)</h2>
-<br>
-<img src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" height="500"/>
-</div>
-<div align="center">
-<h2 align="center"> Editors over All Time (From November 2024 to today)</h2>
-<br>
-<img src="https://wakatime.com/share/@cusaldmsr/01478b3f-0160-4934-b337-3b9633cda031.svg" height="500"/>
+        <div align="center">
+                <h3 align="center">Coding Activity & Editors</h3>
+                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/67720f7a-c4bb-4d4e-aa03-285d8b7dae7f.svg" >
+                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/8f950a77-0fd1-42d6-93c5-a2091b2fb4b0.svg" >
+        </div>
+        <div align="center">
+                <h3 align="center"> Languages over All Time (From November 2024 to today)</h3>
+                <img align="center" height="330px" width="450px" src="https://wakatime.com/share/@cusaldmsr/9689490b-f3fb-4b66-b02c-51a53b3c00fe.svg" >
+                <img align="center" height="330px" width="450px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cusaldmsr&layout=compact&theme=react&hide_border=true&bg_color=0D1117" >
+        </div>
 </div>
 
-
-<!-- <a href="https://app.daily.dev/kusaldamsara"><img src="https://api.daily.dev/devcards/v2/N59ZnA4atPrIYd6oVhYCz.png?r=7j6&type=wide" width="652" alt="Kusal Damsara's Dev Card"/></a> -->
-<div align="center">
-<h2>Medium Publications</h2>        
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cusaldmsr/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cusaldmsr/0?bg_color=0D1117" alt="Recent Article 0"> 
-
-</div>
-<br>
-<br>
 
 ## 🏆 GitHub Trophies
 <br>
