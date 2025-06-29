@@ -3,7 +3,7 @@
     </div>
 
 <h1 align="center">Hi 👋, I'm Kusal Damsara</h1>
-<h3 align="center">I am undergraduate of the Faculty of Engineering, Birmingham City University. I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
+<!-- <h3 align="center">I am undergraduate of the Faculty of Engineering, Birmingham City University. I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3> -->
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cusaldmsr&label=Profile%20views&color=0e75b6&style=flat" alt="cusaldmsr" /> </p>
@@ -20,7 +20,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **Java, React, Python, Ruby, C++**<br><br>👯 I’m looking to collaborate on **Java and Flutter related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL, Linux, Web-Dev and SEO"**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : <p><a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a></p><br><br>
+🌱 I’m currently learning **Java, React, Python, Rust, Go, Solidity**<br><br>👯 I’m looking to collaborate on **Java and Kotlin related projects**<br><br>🤝 I’m looking for help with **Anything related to what I am currently learning**<br><br>💬 Ask me about **"Java, PHP, Bootstrap, JavaScript, Flutter, Dart, SQL and  Web-Dev "**<br><br>📫 How to reach me **Cusaldmsr@gmail.com**<br><br>⚡ Support : <p><a href="https://www.buymeacoffee.com/cusaldmsr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cusaldmsr" /></a></p><br><br>
 
 
 <br>
@@ -61,6 +61,7 @@
 </div>
 <br>
 <br>
+
 <div align="center">
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300"> -->
 <!-- <img src="https://github.com/Sachintha-Samarathunga/Sachintha-Samarathunga/assets/98406068/7c87ca81-704e-4d14-8d8d-baf03327ac7a" width="250"> -->
@@ -121,8 +122,8 @@
 
 <div align="center">
         
-![](https://github-profile-trophy.vercel.app/?username=cusaldmsr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-        
+![](https://github-profile-trophy.vercel.app/?username=cusaldmsr&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=3&column=3&margin-h=15)
+
 </div>
 <br>
 <br>
